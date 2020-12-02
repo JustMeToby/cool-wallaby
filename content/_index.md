@@ -100,5 +100,10 @@ sections:
     title: Latest Posts
     section_id: recent-posts
     background: gray
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 layout: landing
 ---
