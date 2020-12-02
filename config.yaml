@@ -42,7 +42,7 @@ params:
       - type: action
         label: Contact
         url: /contact
-    has_social: true
+    has_social: false
     social_title: Community
     social_links:
       - type: action
